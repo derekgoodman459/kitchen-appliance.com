@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Disallow: /cooking_8/
+Sitemap: http://www.kitchen--appliance.com/sitemap.xml 
